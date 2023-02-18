@@ -1,3 +1,1 @@
-let val = 5*25*6;
-
-console.log(val);
+console.log(25*5*6);
